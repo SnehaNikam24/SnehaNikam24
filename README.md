@@ -1,3 +1,4 @@
+![logo](https://github.com/SnehaNikam24/SnehaNikam24/blob/main/banner.jpg)
 # 💫 About Me:
 I’m currently working on: Building responsive web applications using JavaScript, HTML, and CSS, and exploring React and Firebase for dynamic features.<br><br>🤝 I’m looking to collaborate on: Innovative frontend or full-stack web development projects that aim to solve real-world problems.<br><br>💛 I’m looking for help with: Improving backend integration and API handling in full-stack applications.<br><br>🌱 I’m currently learning: React Native to convert my web apps into mobile-friendly platforms and dive deeper into UI/UX design principles.<br><br>💬 Ask me about: Web development, designing interactive user interfaces, or how to get started with personal projects.<br><br>⚡ Fun fact: I enjoy debugging — it’s like solving a mini mystery with every broken line of code!
 
