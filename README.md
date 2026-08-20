@@ -1,6 +1,4 @@
-# snehanikam24
-
-## Header
+# Sneha_Nikam
 
 <p align="center">
   <picture>
