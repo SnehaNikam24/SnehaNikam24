@@ -8,9 +8,6 @@
 
 <br><br>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=SnehaNikam24&label=PROFILE%20VIEWS&color=2575FC&style=for-the-badge" alt="Profile Views"/>
-
 </div>
 
 ---
