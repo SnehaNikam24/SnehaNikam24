@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Sneha%20Nikam&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=750&lines=Computer+Technology+Student;Web+Developer;Android+Developer;Java+%7C+Python+%7C+JavaScript;Building+Real-World+Projects;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=750&lines=Computer+Science+Desgin +Student;Web+Developer;Android+Developer;Java+%7C+Python+%7C+JavaScript;Building+Real-World+Projects;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br><br>
 
