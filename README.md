@@ -17,11 +17,11 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Sneha Nikam**, a Computer Technology student passionate about creating practical and user-friendly software applications.
+Hi! I'm **Sneha Nikam**, a Computer Science and Desgin student passionate about creating practical and user-friendly software applications.
 
 I enjoy developing **web applications and Android applications** while continuously improving my programming, database, and problem-solving skills.
 
-- 🎓 Diploma Student in **Computer Technology**
+- 🎓 B.Tech Student in **Computer Science and Desgin**
 - 💻 Web Developer
 - 📱 Android Developer
 - 👩‍💻 Completed a **1-month Web Development Internship**
